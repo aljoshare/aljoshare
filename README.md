@@ -17,19 +17,26 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/rust/white" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/go/white" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/python/white" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/cmake/white" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/kubernetes/white" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/amazonwebservices/white" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/cloudflare/white" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/terraform/white" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/argo/white" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/helm/white" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/yaml/white" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/json/white" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/linux/white" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/debian/white" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/archlinux/white" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/alpinelinux/white" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/chainguard/white" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/macos/white" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/gnubash/white" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/zsh/white" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/containerd/white" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/docker/white" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/cilium/white" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/neovim/white" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/zedindustries/white" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/hyprland/white" />
@@ -38,6 +45,16 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/apachekafka/white" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/postgresql/white" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/redis/white" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/conventionalcommits/white" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/curl/white" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/grafana/white" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/elastic/white" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/fluentd/white" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/git/white" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/apachemaven/white" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/gradle/white" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/markdown/white" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/mongodb/white" />
 </div>
 
 <hr>
