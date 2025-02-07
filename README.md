@@ -1,6 +1,6 @@
 <div align="center">
 <a>
-  <img height=400 align="center" src="https://github.com/aljoshare/aljoshare/assets/12294054/c920ad6a-7d38-420a-880b-808caab489c3" />
+  <img height=400 align="center" src="https://aljoshare.com/profile.jpeg" />
 </a>
 <hr>
 </div>
